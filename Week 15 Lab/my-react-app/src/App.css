@@ -1,0 +1,6 @@
+.userContainer {
+  display: flex;
+  margin-top: 2em;
+  border: 1px solid red;
+  padding: 5px;
+}

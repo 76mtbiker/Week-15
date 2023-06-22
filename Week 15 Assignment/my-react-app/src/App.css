@@ -1,0 +1,26 @@
+
+.App {
+  background-color:aquamarine;
+  
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.nav-link {
+  margin: 0 10px;
+  color:purple;
+  text-decoration: none;
+}
+body {
+  background-color: lightgray; 
+}
+.footer {
+  scroll-padding-top: auto;
+}
+
+.html {
+  position: fixed;
+  bottom: 50%;
+  left: 0;
+  width: 100%;
+}
